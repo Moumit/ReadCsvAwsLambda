@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadCsvAwsLambda", "ReadCsvAwsLambda\src\ReadCsvAwsLambda\ReadCsvAwsLambda.csproj", "{FE829899-2728-4EB5-BBCC-B21222B3A37B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE829899-2728-4EB5-BBCC-B21222B3A37B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE829899-2728-4EB5-BBCC-B21222B3A37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE829899-2728-4EB5-BBCC-B21222B3A37B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE829899-2728-4EB5-BBCC-B21222B3A37B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0615C44-DC1F-4D08-A6CE-C4510496814F}
+	EndGlobalSection
+EndGlobal
